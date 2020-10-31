@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher Johnstone
+title: Adam Beitz
 
 # Username (this should match the folder name)
 authors:
@@ -18,20 +18,18 @@ organizations:
   url: "https://gallowaylab.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Galloway Lab interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
+bio:
 
 interests:
-- Cellular circuit engineering
-- Cellular reprogramming
-- Computer science
+- 
 
 education:
   courses:
-  - course: PhD student in chemical engineering
+  - course: PhD student in Chemical Engineering
     institution: Massachusetts Institute of Technology
     year: 2019-ongoing
-  - course: BSc in Chemical Engineering, minor in Computer Science
-    institution: Califonia Institute of Technology
+  - course: BS in Chemical Engineering, concentration in Biomolecular Engineering
+    institution: Clemson University
     year: 2019
 
 # Social/Academic Networking
@@ -41,19 +39,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cjohnsto@mit.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:abeitz@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/meson800
+  link: https://github.com/abeitz
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-7255-0218
+  link: https://orcid.org/0000-0002-6514-6022
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/christopher-johnstone-95bba6132
+  link: https://www.linkedin.com/in/adam-beitz-714332b0/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ChrisPJohnstone
+  link: https://twitter.com/beitz_adam
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,12 +68,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a PhD student at MIT working in the Galloway Lab. Out of all of the systems that chemical engineers
-examine, I've found that biological systems are the most fascinating, complex, and challenging systems
-we could possibly dream of working with.
-
-I've also always enjoyed coding. My favorite language was and still is C++; I've written several toy
-projects and contributed to several open-source development efforts with C++. I also enjoy Python, and use it
-pretty frequently as my go-to "glue", data-analysis, or prototyping language.
-
-When I'm not doing research or programming, I like to dabble: 3D modeling and animation, video editing, sailing, quadcopter construction, rocket building have all been recent interests of mine.
+[Insert Introduction here]
